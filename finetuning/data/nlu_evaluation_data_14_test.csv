@@ -1,0 +1,251 @@
+text,scenario,label
+repeat this song three times,music,44
+is april fifteenth on a weekend,datetime,13
+what is the time in canada now,datetime,13
+what's the date today,datetime,13
+what is the time now in san diego,datetime,13
+house lights blue,iot,31
+what is today,datetime,13
+connect to lights,iot,35
+put the current song on repeat,music,44
+could you tell me what today's date is,datetime,13
+please turn on repeat all,music,44
+activate the cleaner for furniture cleaning,iot,29
+todays date,datetime,13
+please turn off the lights,iot,33
+what is the date two saturdays from now,datetime,13
+what kind of music do you think i like,music,43
+i would like the like in the kitchen to be a different color,iot,31
+what kind of music am i into,music,43
+set the mood please,iot,31
+record the opinion of each individual about this song,music,42
+i like electronic music,music,42
+what is the correct time,datetime,13
+please increase the light of table lamp,iot,35
+what is the month day and year,datetime,13
+next alarm,alarm,0
+begin vacuum,iot,29
+are there any alarms set,alarm,0
+stop it,audio,4
+can you adjust the lighting for me to be brighter,iot,35
+do i have any music by lady antebellum,music,43
+can you tell me the time at san francisco,datetime,13
+clean the floor,iot,29
+what time is my doctor appointment this week,calendar,7
+enable shuffle,music,44
+remind me tomorrow at four about an event,calendar,9
+what genre is most played on my music player,music,43
+lower lights in kitchen,iot,32
+can you sync my calendar with mark,calendar,9
+tell me my meetings this Wednesday morning,calendar,7
+turn up the lights,iot,35
+tell me the current time in san paulo brazil,datetime,13
+when did pop it like it's hot come out,music,43
+places with pizza delivery near me,takeaway,61
+call peking garden,takeaway,61
+olly what time is it in las vegas,datetime,13
+remember metallica selections for next time,music,42
+remind me about the picnic at regent park,calendar,9
+please turn on my smart plug socket,iot,37
+can you mute my speaker,audio,4
+please check the time,datetime,13
+please turn off kitchen light for me,iot,33
+current time,datetime,13
+could you change the lights colour to green please,iot,31
+turn the lights brighter,iot,35
+what is the time in the eastern time zone,datetime,13
+cleaning is good dust is so bad do now your magic clean my carpet,iot,29
+turn off the nearest light,iot,33
+search the album name with katy perry,music,43
+place order for usual burritto at chipolte,takeaway,61
+lessen the the light glow,iot,32
+what is the current pacific time,datetime,13
+it's a bit dark increase lighting,iot,35
+what song is playing,music,43
+what time i sit in china right now,datetime,13
+will you please mute my speakers,audio,4
+do i have any upcoming events in my calendar,calendar,7
+save this songs genre for me,music,42
+please olly put on multi colored lightning in my apartment set for festival diwali,iot,35
+what time is it in california,datetime,13
+clean the sofa with the vacuum cleaner,iot,29
+i want to know what time it is,datetime,13
+mute my speakers for a minute here i need to make a call,audio,4
+quiet,audio,4
+what day of the week is twenty first,datetime,13
+i want the light in the kitchen powered off,iot,33
+turn room lights off now,iot,33
+checkout today third set alarm,alarm,0
+in how many hours will it be midnight in london england,datetime,13
+what time is it in new york city right now,datetime,13
+start irobot,iot,29
+initiate to operate robot vacuum cleaner,iot,29
+i'd like you to remember that i like this song,music,42
+remind me of my meeting,calendar,9
+add a reminder on thursdays at eleven and thirty am and name it dance classes,calendar,9
+turn the lights to red color,iot,31
+can you turn off my desk lamp,iot,33
+bring up all the runner lights,iot,35
+what is the date for the following monday,datetime,13
+when does my alarm go off,alarm,0
+i need you to be quiet until tomorrow,audio,4
+time wellington nz,datetime,13
+change house light colors to blue,iot,31
+remind my friend to get the assignment tomorrow,calendar,9
+please turn off all of the lights in the house,iot,33
+please repeat the last sentence from that book,play,46
+turn off the lights,iot,33
+what alarms are set in the house,alarm,0
+please keep everything i have on this song,music,42
+what is the current mountain time,datetime,13
+what day of the week was february four nineteen seventy two,datetime,13
+ten past seven,datetime,13
+do i have meeting with steve this week,calendar,7
+set the lights on blue,iot,31
+who is the song playing by,music,43
+make the lights shine blue,iot,31
+turn the living rooms lights off,iot,33
+call the nearest thai restaurant with delivery,takeaway,61
+kitchen light off,iot,33
+what are the lyrics to this song playing,music,43
+transition lights to blue to green to yellow,iot,31
+download and save song of dangal movie,music,42
+contact pizza hut and order a large pizza with ham and mushrooms,takeaway,61
+activate the vacuum cleaner and use it,iot,29
+do the knicks have a game at home tonight,calendar,7
+turn off the bedroom lamp,iot,33
+you have to check out kfi he's the best,music,42
+lights brighter,iot,35
+what is the current time in hong kong,datetime,13
+turn wemo plug socket on,iot,37
+are there any alarms for today,alarm,0
+tell me the current time in central time,datetime,13
+what alarms do i have,alarm,0
+every light of room increase its intensity,iot,35
+what time i am waking up tomorrow,alarm,0
+i want blue lighting,iot,31
+who is the music director of this song,music,43
+whats today,datetime,13
+current date please,datetime,13
+please turn off all the lights in the house,iot,33
+what day it is on twenty second april,datetime,13
+power on wemo,iot,37
+how are you today,general,23
+shut off the lights,iot,33
+where is my appointment with doctor next week,calendar,7
+music traking,music,43
+what is tomorrows date,datetime,13
+switch on the plug,iot,37
+what is the name of the lead singer in this band,music,43
+which alarms do i have,alarm,0
+how many days is it until may twenty fifth,datetime,13
+lower the lights,iot,32
+please shut off the kitchen lights,iot,33
+please turn on all the outdoor lights,iot,34
+please order some sushi for dinner,takeaway,61
+good afternoon,general,23
+did i set my house alarm,alarm,0
+what time is it in dooa,datetime,13
+please adjust the colors in my lights,iot,31
+change color of the light to red outside the house,iot,31
+hey hey,general,23
+reduce the intensity of lights,iot,32
+what time is it in chicago right now,datetime,13
+can you tell me the date today,datetime,13
+switch on the green light in playroom,iot,31
+start the robot vacuum cleaner at one pm today,iot,29
+hey what's today's date,datetime,13
+music change,music,44
+turn the lights blue at three pm,iot,31
+please change color of light to pinkish,iot,31
+please start vacuum cleaner,iot,29
+make the lights in the house red,iot,31
+turn off the lights in the kitchen,iot,33
+tell me the time in jakarta,datetime,13
+what important dates are there in my calendar this month,calendar,7
+order chinese food,takeaway,61
+check whether i have set any alarms for tomorrow morning,alarm,0
+what day of the week is the twenty seventh,datetime,13
+which song is this one,music,43
+call eastwind and order lomaine to go,takeaway,61
+what time is it in denver,datetime,13
+what is today's day,datetime,13
+turn on notification for all news on the stock market,qa,55
+change the lights in my home to green,iot,31
+please mute my speaker,audio,4
+tell me the name of that song,music,43
+hey turn on disco lights in my apartment and let the party begin,iot,34
+more light please,iot,35
+vacuum on,iot,29
+who is the artist of the current song playing,music,43
+how many sunday having this month,datetime,13
+i want to order chinese takeout,takeaway,61
+what do you think,music,42
+put off the living room light,iot,33
+display current time,datetime,13
+can you order me some buffalo chicken pizza,takeaway,61
+create an event with zaf,calendar,9
+tell me about alarms,alarm,0
+repeat this song,music,44
+turn on vacuum,iot,29
+no lights in the kitchen,iot,33
+dim the lights down a bit,iot,32
+search for information on internet,datetime,13
+can you pull up information on the singer of this song,music,43
+can you give me the time in new delhi,datetime,13
+please start the vacuum,iot,29
+mute the sound,audio,4
+please dim the overhead lights,iot,32
+what is the time in new york,datetime,13
+can you please update me the time,datetime,13
+place an order for a pepperoni pizza at papa johns,takeaway,61
+light is too much,iot,32
+what will the date be next wednesday,datetime,13
+is there any upcoming events,calendar,7
+am i free this Saturday,calendar,7
+time,datetime,13
+please brighten the room,iot,35
+create a repeating event on mondays at seven pm,calendar,9
+is there anything i should be reminded about,calendar,7
+when was this song recorded,music,43
+please unmute yourself,audio,4
+repeat song number ten from main list,music,44
+when is the third monday of this month,datetime,13
+more lights please,iot,35
+how many reminders do i have,calendar,7
+please do not answer,audio,4
+i am so hungry and tired and i think i might order some food now,takeaway,61
+attenuate the lights,iot,32
+vacuum start,iot,29
+what time are my alarms,alarm,0
+is there any event today in my calendar,calendar,7
+tell me this song,music,43
+change lights from red to blue,iot,31
+make the living room blue,iot,31
+start my robot vacuum cleaner,iot,29
+please tell me the date for the first day of next month,datetime,13
+power up the vacuum,iot,29
+start a takeaway order for me,takeaway,61
+please skip two songs,music,44
+let me know about upcoming events,calendar,7
+get the cleaning on,iot,29
+thumbs up this song,music,42
+robot vacuum cleaner on,iot,29
+activate silent,audio,4
+change the light to blue,iot,31
+turn off sound,audio,4
+save my spotify preferences,music,42
+it is time to lower the kitchen lights,iot,32
+color change of lights,iot,31
+lower brightness of lights,iot,32
+what song is playing now,music,43
+mute for fifteen minutes,audio,4
+please brighten the lights,iot,35
+please be quiet for the next two hours,audio,4
+what's the time in dubai,datetime,13
+what time is it in the central time zone,datetime,13
+could you tell me what time it is,datetime,13
+what is my current time,datetime,13
+current time in,datetime,13
+please change light color to purple,iot,31
+please repeat the current song is being played,music,44

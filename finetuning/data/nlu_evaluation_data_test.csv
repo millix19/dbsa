@@ -1,0 +1,251 @@
+text,scenario,label
+replay the required of the musics,music,44
+bbc world headlines,news,45
+i am leaving early today,general,27
+what is the plan for tonight,calendar,7
+i am sorry but you got that incorrectly.,general,25
+save my music choices,music,42
+open social media account,social,60
+"this is of no importance, olly.",general,21
+show me the stock prices of walmart,qa,55
+sorry but that was not the correct response.,general,25
+please set an alarm for seven hundred and thirty am tomorrow,alarm,2
+remove the board meeting and reschedule for next wednesday,calendar,8
+get me some latte please,iot,30
+set a monthly event,calendar,9
+send golden taxi to pick me up as soon as possible,transport,64
+about demoudularity,general,27
+i had a lot of meetings today,general,27
+play some carnatic songs,play,48
+i'd like to hear the last things spoke again.,general,28
+path to hallway,email,16
+play back in black,play,48
+play thinking out loud now,play,48
+tell me the top stories on cnn,news,45
+"it was useful, appreciated.",general,26
+what is the my upcoming events,calendar,7
+any death news in times of india,news,45
+will you reset it please.,general,28
+send an email in response to this,email,17
+check the detail.,general,20
+is my calendar free for four pm today,calendar,7
+give me the definition of carion,qa,52
+i like you to confirm question please.,general,20
+is it gonna be cloudy,weather,67
+weather report of boston,weather,67
+describe me about the new cleaner how it works,general,27
+log a complaint to lg ac to customer service,social,59
+remind me about the meeting i have tomorrow at three pm,calendar,9
+have i need to take a sun glass,weather,67
+find me a nice restaurant for dinner,recommendation,57
+please would you tell me that once again.,general,28
+"s1, can you rephrase me on your answers further.",general,22
+"don't really care, olly.",general,21
+stock details,qa,55
+are there any good movies running in nearby theaters,recommendation,58
+what is the quickest way to my work downtown without hitting any traffic,transport,63
+what's the best chicken place near me,recommendation,57
+email my mother,email,17
+make my usual,iot,30
+could you reschedule my meeting,calendar,7
+start the podcast application,play,49
+network podcast,play,49
+please increase the volume to maximum,audio,6
+find the serial podcast and play it,play,49
+ring the alarm when i get home,alarm,2
+what's going to be the cure for cancer,qa,53
+play be warned by tech n9ne,play,48
+"you are so helpful,, olly.",general,26
+can you tell me what the white house is,qa,52
+commence coffee making,iot,30
+i want a train ticket from boston to new york,transport,65
+play all order of the green hand from previous week,play,49
+are there any new emails received after four o'clock today,email,15
+can you tell me about today,calendar,7
+i have a deadline on tuesday,general,27
+let us start over please.,general,28
+whats the meaning of life,general,27
+please schedule meeting with ri at ten am on april first,calendar,9
+remind me at the start of each month,calendar,9
+topography melbourne,qa,53
+open email,email,15
+power yourself on,iot,37
+activate the vacuum cleaner,iot,29
+tell interesting news,news,45
+you understood my instructions correcly.,general,18
+is there a train ticket available for boston tomorrow,transport,63
+where is the convention center located,qa,53
+please lower the shuffle rate of hips don't lie,music,44
+can i make back home without a traffic jam,transport,66
+rm rf calendar,calendar,8
+did my mom send me an email,email,15
+add dentist appointment for friday at five,calendar,9
+can i know what i on the list,lists,39
+what is happening in the world right now check bbc,news,45
+seven years,play,48
+what is my next event,calendar,7
+what reminders do i have currently,calendar,7
+weather on tuesday,weather,67
+"stop, that's not the correct answer.",general,25
+can you eat sweet potato greens raw,cooking,11
+give me the headlines from sky news,news,45
+appreciate helps.,general,26
+were the stocks rising or declining,qa,55
+play sholay,play,48
+open my music and play melissas afternoon podcast from yesterday,play,50
+clarify what you have said once again to me please.,general,22
+set up each day an alarm at ten time for my meal,alarm,2
+make the ceiling lights brighter,iot,35
+you got that perfectly.,general,18
+send a reply to mike,email,17
+play i spy with me,play,47
+tweet complaint to @,social,59
+drop down a line,email,17
+play slayer,play,48
+"you did great work, thank you.",general,26
+add a movie name to the wish list,lists,38
+please play candle in the wind,play,48
+just book for me a lyft taxi to bardonia,transport,64
+start cleaning,iot,29
+i need two pizzas stat,takeaway,61
+when will you do my laundry,general,27
+order mcdonalds,takeaway,61
+is there any rains predicted for bangalore today,weather,67
+resume story,play,46
+did the boss send anything,email,15
+do i have any appointments today,calendar,7
+play my newest podcasts from radiolab,play,49
+i am forever hip hop,music,42
+please organize a meeting with my co workers,calendar,9
+at seven am tomorrow morning ring the alarm,alarm,2
+can you play lovely song,play,48
+better climate,weather,67
+what is the weather like in toronto,weather,67
+"that is enough, stop.",general,19
+start playing npr in the kitchen,play,50
+where can i get a good burger within five miles,recommendation,57
+rajani khanth new venture,general,27
+please call the golden fork and tell them to deliver one portion of the fish risotto,takeaway,61
+what music is it,music,43
+do i have any more emails,email,15
+change the light colour to green,iot,31
+what high school did halley barry go to,qa,53
+what's on my todo list,lists,39
+what time are the hockey games tonight,general,27
+what is the weather in new york,weather,67
+please will you rephrase further on what you have just said to me.,general,22
+sorry but i think you've got that not right.,general,25
+how much time to cook pasta,cooking,11
+what was the name of my last email,email,15
+technology,general,27
+remind me to get the oil changed,calendar,9
+who won the presidential election this year,qa,53
+what events do i have today,calendar,7
+hey can you make it blue in here,iot,31
+mere favorite radio station ko tune karo,play,50
+customer service from microsoft never called me back,social,59
+how will be today for me,calendar,7
+i have a nine am meeting on wednesday send me a reminder,calendar,9
+what us state is farthest north,qa,53
+at what time does the next train leave for berlin,transport,63
+define transcendet,qa,52
+please open a reply to the email,email,17
+is anything trending on social media today,social,60
+please add my next meeting,calendar,9
+"it is useful, thank you.",general,26
+info of rowan atkinson,qa,53
+what time is set for my wake up alarm,alarm,0
+"appreciate your helps, olly.",general,26
+mark pick up leonard every tuesday at three pm,calendar,9
+remove last played song,lists,40
+i want to eat some spicy thing,takeaway,61
+"you are so helpful, appreciated.",general,26
+play next song on track,play,48
+what lists are available,lists,39
+will you please shut down.,general,19
+what's the closest taxi to me,transport,64
+don't want of next event in calendar so delete it,calendar,8
+is michael's a takeaway or delivery restaurant,takeaway,62
+is it joes birthday soon,email,16
+i want to cook that meal,cooking,11
+are there any new messages in my inbox,email,15
+i want to hear a book by torey hayden,play,46
+give me the time in washington,datetime,13
+what is the definition of precocious,qa,52
+can you describe to me a bike,qa,52
+how long until we get to chicago,transport,63
+current news,news,45
+thanks but i think that's not right response.,general,25
+"no, you have done a task all in wrong manner.",general,25
+yes it's great.,general,18
+where is my girl friend right now,general,27
+lights color red,iot,31
+i have a sales meeting this thursday at seven am please notify me and add to calendar,calendar,9
+thanks but that's not the correct response.,general,25
+continue to next song please,play,48
+yeah agreed.,general,18
+"that is nice one, musch appreciated, olly.",general,26
+delete item on list,lists,40
+how many items are on my list,lists,39
+i need to set reminder on fifteenth march,calendar,9
+could you speak the last utterance said once more.,general,28
+what do you think of trump,general,27
+what's the temperature in flint mi,weather,67
+how do i measure a liter of milk,general,27
+play rock music,play,48
+how much traffic does atlanta georgia usually have,transport,66
+write email to my company mate to submit the task tomorrow,email,17
+search in the web for buying bakeware for muffins,cooking,11
+what is happening near me,recommendation,56
+what's the closing price of apple,qa,55
+i'd like you confirm the question please.,general,20
+get me rate euro to u. s. d. yesterday,qa,51
+"shit, you've done that wrong.",general,25
+show me boston's current time,datetime,13
+i would like you to check that please.,general,20
+what's the best business to get into right now,general,27
+"this does not matter, olly.",general,21
+whats today's date,datetime,13
+what is the the times headline,news,45
+i would like to talk about it,general,27
+nightlife,general,27
+i was unclear about what you have just said.,general,22
+i am sorry but i think you don't get answer right.,general,25
+tell me keywords about usain bolt,qa,53
+start a takeaway order for me,takeaway,61
+what is the longest river on earth,qa,53
+please can you say it one more time again.,general,28
+is it going to rain in seattle today,weather,67
+turn off my wemo plug,iot,36
+it was not clear.,general,22
+do i have an appointment tomorrow,calendar,7
+yeap you have gotten my instructions perfectly.,general,18
+give me the date of monday on third week of this month,datetime,13
+answer this mail,email,17
+what kind of event is happening around me,recommendation,56
+i need some details about bruce lee please assist,qa,53
+i need recipe for yellow rice,cooking,11
+tweet pizza hut their delivery guy is an hour late,social,59
+start email for address not in contacts,email,17
+four plus five equals nine,qa,54
+put monday meeting on calendar every Monday,calendar,9
+will i need a jacket after ten pm in me area,weather,67
+confirm what last said.,general,20
+"uh no, it is not what i just requested.",general,25
+repeat.,general,28
+find me all mails from magda with holidays word in the title,email,15
+would you again clarify me about your answer please.,general,22
+am i free on sunday day,calendar,7
+change lights to pink,iot,31
+please add this item to the list,lists,38
+can you post my business on facebook,social,59
+play for me the game harry potter and the chamber of secrets,play,47
+send a consumer service complaint,social,59
+It's too dark in here,iot,34
+will i need my snow boots this afternoon,weather,67
+go to youtube and play me the best wedding songs collection,play,48
+would you again clarify me on it.,general,22
+would you say once more please.,general,28
+send thank you so much mom to mom,email,17
+send me directions to the police department,transport,63
+whats the weather like,weather,67

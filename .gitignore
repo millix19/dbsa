@@ -1,0 +1,9 @@
+*.pkl
+*.out
+*.pyc
+*.err
+*.log
+*.pdf
+logs/*
+wandb/*
+test/*

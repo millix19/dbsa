@@ -1,0 +1,251 @@
+text,scenario,label
+change volume settings in the negative,audio,5
+would you please check to see if i've set my alarm for tomorrow morning,alarm,0
+volume settings please,audio,5
+i would like orange lights now,iot,31
+turn off the light in the kitchen,iot,33
+clap on,iot,34
+current date,datetime,13
+is my wake up alarm set a six am,alarm,0
+please read me my alarms,alarm,0
+play led zeppelin houses of the holy,play,48
+start vacuuming now please,iot,29
+start vacuum cleaner now,iot,29
+what type of music do i enjoy,music,43
+show us red,iot,31
+what time in las vegas,datetime,13
+i would like to listen to,play,48
+i want to hear some beyonce,play,48
+food order from grubhub,takeaway,61
+turn the light off in the living room,iot,33
+add this song for the next playing song,play,48
+if switch is on then turn on else turn off,iot,37
+mute the speaker please,audio,4
+please play the early franks sinatra stuff i have,play,48
+can you change the living room lights to a softer color,iot,31
+play metallica on shuffle,play,48
+remove six am alarm of whole week for future,alarm,1
+replay the song,play,48
+turn off the dining room,iot,33
+change color,iot,31
+let me know the time,datetime,13
+confirm to buy laptop,general,27
+what alarms will wake me up tomorrow,alarm,0
+please play anything by afi,play,48
+what is current time,datetime,13
+play music true love,play,48
+turn the sound off,audio,4
+when was this song recorded,music,43
+what music is it,music,43
+i intended to do it,general,27
+can you play katy perry,play,48
+sound cloud,music,43
+please tell me what time it is in denver,datetime,13
+change volume level to maximum,audio,5
+please do not speak,audio,4
+start the dogwalking playlist,play,48
+remove set alarm,alarm,1
+play my favorite music right now,play,48
+is there any good chinese takeout that's open late,takeaway,61
+olly find any alarms i have set for today,alarm,0
+what day of the week is the twenty sixth,datetime,13
+what genre of music is in my music folder,music,43
+today is which date,datetime,13
+play songs by bryan adams,play,48
+can you play rfi,play,48
+play one thousand nine hundred and ninety nine by prince,play,48
+what playlists do you have for pop music,play,48
+let's play my song,play,48
+what alarms have been set for me,alarm,0
+please tell me news related to the stock market,qa,55
+play new rihanna song,play,48
+clear data,audio,4
+lights off,iot,33
+please be quiet,audio,4
+play bilando,play,48
+order a smoked meat platter from beanos,takeaway,61
+play clarity by zedd,play,48
+can i change this light to orange,iot,31
+what's today's date,datetime,13
+play my yoga playlist,play,48
+wemo socket on,iot,37
+start the vacuum cleaner,iot,29
+what time is it in london right now,datetime,13
+what's the time in ottawa,datetime,13
+turn off one light in my bedroom,iot,33
+what is today,datetime,13
+play music that are classical only,play,48
+i want to turn on the robot vacuum cleaner,iot,29
+hi,general,23
+what's the time in china right now,datetime,13
+please play shake it off by taylor swiftm,play,48
+please play eighties rock,play,48
+what is the title and artist of this song,music,43
+order me a byron from deliveroo,takeaway,61
+between one thousand nine hundred and ninety and two thousand music album is only to be played,play,48
+play favorites,play,48
+call the nearest pizza place that offers buffalo pizza,takeaway,61
+let's hear some indie rock okay,play,48
+"five million, twenty two thousand and seventeen",datetime,13
+play my shuffled playlist please,play,48
+what time is it in karachi right now,datetime,13
+i would like to hear the song aces high,play,48
+i need to change the color of this light,iot,31
+play songs related to acdc,play,48
+clean the sofa with the vacuum cleaner,iot,29
+listen to this song,music,43
+turn down the lights to medium,iot,33
+the twenty second is what day,datetime,13
+start my favorites playlist,play,48
+play hotel california after this song,play,48
+pause put this song on after this song,play,48
+i want two burgers and one coke order it fast,takeaway,61
+can i adjust the volume,audio,5
+turn on kitchen light,iot,37
+please turn off the lights in the bedroom,iot,33
+what song is currently playing,music,43
+play music by taylor swift,play,48
+play the veldt by,play,48
+what time is it in this city,datetime,13
+play christmas music,play,48
+play music from my favorite artist,play,48
+what album is this song on,music,43
+change light colors from blue to white,iot,31
+play my workout playlist in spotify,play,48
+places with pizza delivery near me,takeaway,61
+what is the time in zimbabwe right now,datetime,13
+Play the playlist,play,48
+make a playlist of all songs of justin bibber and play with shuffle,play,48
+what's the date of the winter solstice two years from now,datetime,13
+show me boston's current time,datetime,13
+change the colour to red,iot,31
+play all by playlist,play,48
+can you tell me what month it is,datetime,13
+take me to more music by that artist,play,48
+what artist sings this song,music,43
+play huey lewis,play,48
+it's awfully dark here,iot,34
+i want to play that music one again,play,48
+list my different alarm,alarm,0
+remind me at one pm,calendar,9
+turn on this socket,iot,37
+play my gym playlist,play,48
+shuffle play my slow songs play list from spotify,play,48
+mute for two hours,audio,4
+change lights to red,iot,31
+please start the vacuum cleaner,iot,29
+give me some lavender toned light,iot,31
+set the living room lights to fifty percent,iot,31
+when is the third monday of this month,datetime,13
+set the living room lights to red,iot,31
+do not wake me up tomorrow,alarm,1
+start the robot vacuum cleaner,iot,29
+turn on the playlist i have dedicated to rock music,play,48
+where are we in the stream of time,datetime,13
+hey go from off to on my vacuum in five minutes,iot,29
+play playlist postal service,play,48
+please turn off only right side light,iot,33
+delete my alarm for eight am,alarm,1
+what music service has some soul music i can listen to,music,43
+White,iot,31
+what would you call this kind of music that we're listening to,music,43
+change volume,audio,5
+play youtube playlist blank,play,48
+dady mummy vettil illa,play,48
+when did this song come out,music,43
+don't speak for a while,audio,4
+find the nearest olive garden that has take out service,takeaway,61
+strings and pianos but only acoustical guitar not electric please,play,48
+turn on smart socket in dining room,iot,37
+change the opacity of the color,iot,31
+goodnight,audio,4
+play my favorite music,play,48
+power up the plug socket one,iot,37
+play rock music please,play,48
+can i get the current time,datetime,13
+play music from my edm playlist,play,48
+mute all responses now,audio,4
+initiate classical music,play,48
+play some music,play,48
+play lady gaga,play,48
+shift the balcony light to off,iot,33
+what is the time,datetime,13
+akon,play,48
+find some smooth jazz for me,play,48
+stop making sounds for forty minutes,audio,4
+tell me what time it is right now in austin,datetime,13
+put on some coldplay,play,48
+can you change the lights to white,iot,31
+on what date is easter this year,datetime,13
+lets listen to the playlist,play,48
+light up the lights in the kitchen,iot,34
+get played the latest classic music,play,48
+turn lights in the room off,iot,33
+please start the vacuum cleaner,iot,29
+i want to order a pizza from michael's pizza,takeaway,61
+who is the singer,music,43
+who is the song writer,music,43
+play a genre of music,play,48
+which song is this,music,43
+play my rock music playlist,play,48
+start playing my song list,play,48
+i need you to turn on the vacuum cleaner,iot,29
+run the robot vacuum cleaner,iot,29
+find me a good pop song,play,48
+play music by queen,play,48
+light green,iot,31
+show me the time,datetime,13
+at what time is my alarm set,alarm,0
+play my top rated playlist,play,48
+get large pizza with pepperoni,takeaway,61
+change the lights in the kitchen to blue,iot,31
+snooze,alarm,1
+light off now,iot,33
+whats the day today,datetime,13
+play workout playlist,play,48
+can i get the time,datetime,13
+activate vacuum cleaner,iot,29
+turn off media volume,audio,4
+play music by that artist,play,48
+tell me the current time in ottawa,datetime,13
+shutoff light in the kitchen,iot,33
+i want you to put on be warned by tech n9ne,play,48
+checkout today third set alarm,alarm,0
+change my house lights colour to blue,iot,31
+make all the lights in the house orange,iot,31
+enable cleaner robot,iot,29
+what day of the week does christmas fall on this year,datetime,13
+please change the volume to mute,audio,4
+turn the vacuum on,iot,29
+please play only ar rehman's songs,play,48
+tell me what time it currently is,datetime,13
+what is the current time in chennai,datetime,13
+please let me know today's date,datetime,13
+when is the twenty second,datetime,13
+what is the song name,music,43
+play i love you and then next happy,play,48
+i want to order some takeout food,takeaway,61
+pink nobody knows,play,48
+please play huey lewis all titles,play,48
+i am really craving for chinese food right now please let me order take out,takeaway,61
+Silence speakers,audio,4
+please play any alternative punk rock i have,play,48
+play all indie pop songs,play,48
+give me the time in washington,datetime,13
+remove my early alarms,alarm,1
+make it dark in here,iot,33
+call pf chang's to order me egg foo young,takeaway,61
+do i have an alarm set for today,alarm,0
+what music genre do i play most,music,43
+when is the next month that has thirty one days,datetime,13
+please tell me about upcoming alarms,alarm,0
+let's suck out the dust,iot,29
+bed room two lights off,iot,33
+please play music,play,48
+mute the sound,audio,4
+time please,datetime,13
+do i have any alarms set for tomorrow,alarm,0
+select the r. n. b. playlist from the nineties please,play,48
+find me the name of the artist of this music,music,43
+change the lights to red,iot,31
+silence for two hours,audio,4

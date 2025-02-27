@@ -1,0 +1,251 @@
+text,scenario,label
+can you please turn on the coffee pot to make me coffee,iot,30
+switch on the lights,iot,34
+play get happy by ella fitzgerald,play,48
+what date is today,datetime,13
+what time is twelve pm eastern time in pacific time,datetime,12
+can you play the instrumentals of,play,48
+what is the time in beijing,datetime,13
+make the volume to zero,audio,4
+please do not answer,audio,4
+do i have any alarms set for six am tomorrow,alarm,0
+what places can i order takeout from near by,takeaway,61
+please thumbs up this song,music,42
+play bad religion folder,play,48
+initiate the music on the electronic playlist,play,48
+tell me today's date,datetime,13
+hey order me some take out from jason's deli,takeaway,61
+are there any alarms set right now,alarm,0
+turn on shuffle,music,44
+what time can i pick up my food,takeaway,62
+run coffee maker,iot,30
+i'd like to hear folk songs from one thousand nine hundred and sixty eight,play,48
+this song is my favourite,music,42
+play next song,play,48
+how many hours ahead is nyc,datetime,13
+change up the light colors at home,iot,35
+start vacuum cleaner now,iot,29
+please note on song title good tune,music,42
+tell me current time at new york,datetime,13
+please turn on all the outdoor lights,iot,34
+repeat the current song,music,44
+what time is it in the east,datetime,13
+will you play superman after this song is over,play,48
+please replay that song i just listened to,play,48
+add that song to my playlist,music,42
+what is the time difference between here and dakar,datetime,13
+mere favorite songs ko tune karo,play,48
+order a latte from starbucks,iot,30
+please add note to this file good tune,music,42
+does chinese deliver,takeaway,62
+what alarms are set in the morning,alarm,0
+play music from my favorite pandora artist station,play,48
+can you make me coffee now,iot,30
+what is the current time,datetime,13
+lower the volume please,audio,3
+start cleaner,iot,29
+the time difference between lagos and new york is what,datetime,12
+what is the time in la,datetime,13
+lights on,iot,34
+what day of the week does christmas fall on this year,datetime,13
+if it's ten pm in california what time is it in alabama,datetime,12
+change volume,audio,5
+turn off wemo,iot,36
+please run the vacuum cleaner,iot,29
+please play the song over the rainbow,play,48
+after this song play thriller,play,48
+please play help,play,48
+do not play rock metal,music,41
+convert two thousand three hundred and thirty from g. m. t. plus four hundred and thirty to g. m. t. two hundred,datetime,12
+play my r. n. b. playlist,play,48
+give me the time in london,datetime,13
+make this room brighter,iot,35
+lower the lights in the house,iot,32
+slow the volume speaker,audio,3
+what time are my alarms,alarm,0
+does peking garden do orders online,takeaway,62
+no no turn it down,audio,3
+please keep everything i have on this song,music,42
+time in new york now,datetime,13
+Silence speakers,audio,4
+thumbs down,music,41
+i want two burgers and one coke order it fast,takeaway,61
+Play classic rock,play,48
+go to youtube and play me the best wedding songs collection,play,48
+set mute mode for one hour,audio,4
+i will need my filter coffee in ten minutes please ask the coffee maker accordingly,iot,30
+play the weekend,play,48
+cleaning is good dust is so bad do now your magic clean my carpet,iot,29
+i want the smart socket off now,iot,36
+i would like to pickup a veggie sub with a cookie from subway,takeaway,61
+twelve am removed,alarm,1
+please play rock music,play,48
+can you look up chinese takeout near here,takeaway,61
+can you begin the brew,iot,30
+hey play crazy by britney spears,play,48
+can you please order me some mcdonalds,takeaway,61
+can you raise the lights for me please,iot,35
+raise the brightness of the lights,iot,35
+is it the twenty ninth already,datetime,13
+what time is it in pacific standard time,datetime,13
+love me some brad paisley,music,42
+how many alarms have i set,alarm,0
+please warm up coffee machine,iot,30
+what is the date and time,datetime,13
+turn off the bass from the audio,audio,3
+vacuum the mud room,iot,29
+please save this song,music,42
+rate five,music,42
+does this place do takeaway,takeaway,62
+what day of the week is valentines on,datetime,13
+activate the vacuum,iot,29
+jazz,play,48
+i love to rock out with my sock out,music,42
+what time in las vegas,datetime,13
+i am really feeling depressed right now can you please play my most played songs to cheer me up,play,48
+robot via bluetooth enabled devices,iot,29
+i need to hear some sad songs today,play,48
+turn my iroomba on,iot,29
+listen to girl from impanema by frank sinatra,play,48
+i want you to put on be warned by tech n9ne,play,48
+play the billboard top ten,play,48
+smart plug socket off please,iot,36
+please cancel all alarms for tomorrow,alarm,1
+from now on mute,audio,4
+play my jazz playlist,play,48
+start a cup of coffee for me,iot,30
+please give me the time,datetime,13
+play enrique,play,48
+how much in the clock,datetime,13
+dim the living room lights,iot,32
+what is today's date,datetime,13
+announce the current time,datetime,13
+what alarms do i have set for thursday,alarm,0
+play creed from my rock playlist,play,48
+play new bob dylan album,play,48
+silently adjust,audio,4
+whats the date today,datetime,13
+akon,play,48
+please turn the lights up to eight,iot,35
+if it's eight pm on the east coast what time is it in sacramento california,datetime,12
+start vacuuming,iot,29
+can the lights be turned up,iot,35
+yo what's the current time,datetime,13
+does this restaurant deliver,takeaway,62
+switch off wemo,iot,36
+next i want to hear shinedown,play,48
+please play any alternative punk rock i have,play,48
+ennavale adi ennavale,play,48
+please turn off the alarm,alarm,1
+is there christmas on twenty second,datetime,13
+add this channel to pandora,music,42
+can you check the time,datetime,13
+please play any song by lady gaga,play,48
+rating,music,42
+what is the date for next tuesday,datetime,13
+start coffee at six am,iot,30
+please start the vacuum cleaner,iot,29
+play hurt by johnny cash next,play,48
+activate the robot vacuum,iot,29
+play classical music,play,48
+what is the time in clock,datetime,13
+i'd like you to remember that i like this song,music,42
+start the robot vacuum cleaner,iot,29
+tell me the time in london england,datetime,13
+ennema eatha,play,48
+place a takeaway order for a cheeseburger and fries from burger king,takeaway,61
+please i want to hear we will rock you from queen,play,48
+how long until my order is ready,takeaway,62
+play hip hop music please,play,48
+please play any music created in the decade,play,48
+can you tell me what the time is right now,datetime,13
+i would like a coffee now,iot,30
+can you tell me what month it is,datetime,13
+i'd love to hear any song that i've given five stars by serge gainsbourg,play,48
+start my jazz playlist,play,48
+"ten million, twenty two thousand and seventeen",datetime,13
+show volume settings,audio,5
+dim the lighting in my living room,iot,32
+how do you activate the robot vacuum cleaner,iot,29
+play december holiday list,play,48
+make me a cup of coffee,iot,30
+what time is it right now in australia,datetime,13
+what time are we looking at right now,datetime,13
+please ask mr coffee to make a latte,iot,30
+make me a cup of coffee please,iot,30
+please turn on classic music for the dinner now,play,48
+please turn down the volume,audio,3
+turn on hall lights,iot,34
+i want a lower light,iot,32
+checkout domino centre near me and order cheese pizza,takeaway,61
+put on some led zeppelin,play,48
+play the most popular song by given artist,play,48
+i like to be it,music,42
+i'm into music,music,42
+please turn off the plug socket of my phone when it'll be charged,iot,36
+please play some jazz,play,48
+play list five,play,48
+darker lights please,iot,32
+put the playlist on shuffle,music,44
+what day was it on my birth date,datetime,13
+could you fix me some coffee,iot,30
+make me coffee now,iot,30
+play jazz,play,48
+what time is it in new york,datetime,13
+what day is the fifth,datetime,13
+order two medium cheese and one medium pepperoni pizza from dominoes,takeaway,61
+turn the lights on,iot,34
+more light please,iot,35
+mukkala mukkabilla,play,48
+have my iroomba clean the house,iot,29
+what's today's date,datetime,13
+play music from the playlist,play,48
+mute the living room speakers,audio,4
+what time is my wakeup alarm set for,alarm,0
+i'd like a coffee please,iot,30
+i like this song,music,42
+tell me the time in g. m. t. plus five,datetime,12
+play my rock music playlist,play,48
+if it's five am in berlin what time is it here,datetime,12
+repeat jazz,music,44
+it's really loud can you please turn the music down,audio,3
+what is today's exact date,datetime,13
+shuffle and play the playlist,play,48
+play my second playlist,play,48
+play all rock songs,play,48
+try to play old nineties classic music,play,48
+stop repeating this song,music,44
+time to hear me some blake shelton,play,48
+can you boil the kettle,iot,30
+skip to the next song,play,48
+make the lights less bright,iot,32
+go to pandora find twenty one pilots radio play please,play,48
+play the music of justin bieber,play,48
+prepare my coffee,iot,30
+play pandora nineties dance party,play,48
+it's dark in the living room,iot,34
+play top forty dance,play,48
+does restaurant has home delivery,takeaway,62
+how many days are left in this year,datetime,13
+please make me nice coffee,iot,30
+comfortably adjust sound,audio,5
+turn the playlist of all my favorite pop songs of two thousand and seventeen,play,48
+this song should be on my playlist,music,42
+please keep quiet for the next hour,audio,4
+lower the lighting,iot,32
+play closer music track,play,48
+if i call mike in california at six pm what will his time be,datetime,12
+could you tell me what time it is,datetime,13
+play me some pop,play,48
+turn off my alarm,alarm,1
+what time is it in someplace,datetime,13
+can you place the sound on mute,audio,4
+tell me what day of the week it is,datetime,13
+switch off the smart plug socket now,iot,36
+please save my opinion about the song that is currently playing,music,42
+greg wants black coffee can you make one,iot,30
+begin music,play,48
+play ride music track,play,48
+play music from my favorite pianist,play,48
+i do not want to use the socket anymore,iot,36
+lower the volume,audio,3
