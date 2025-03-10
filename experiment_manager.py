@@ -86,9 +86,9 @@ class ExperimentManager:
             _logger.info(f"Setting up labels and logt processor for {len(labels)} possible labels")
             self._initialize_labels_and_logit_processor(labels)
         else:
-            self._fix_labels_wrt_tokneizer(labels)
+            self._fix_labels_wrt_tokneizer(labels) # this function cuts off self.test_df["label_tokens"] at 3 tokens
             self.logit_processor = None
-
+            self.max_n_tokens = 50 # hardcoded now for SAMsum
 
     def synchronize_examples():
         pass
