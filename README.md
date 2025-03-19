@@ -1,6 +1,6 @@
 # Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention (DBSA)
 
-This repository contains the code for paper "Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention". 
+This repository contains the code for paper "Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention". [ArXiv preprint: arxiv.org/abs/2503.08640](https://arxiv.org/abs/2503.08640)
 
 <img src="assets/image.png" width="70%" height="70%">
 
@@ -78,7 +78,17 @@ Results will be saved as a CSV in `output-dir`. You can apply any post-hoc evalu
 
 
 ## Citation
-
+```
+@misc{xiao2025efficientmanyshotincontextlearning,
+      title={Efficient Many-Shot In-Context Learning with Dynamic Block-Sparse Attention}, 
+      author={Emily Xiao and Chin-Jou Li and Yilin Zhang and Graham Neubig and Amanda Bertsch},
+      year={2025},
+      eprint={2503.08640},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.08640}, 
+}
+```
 
 ## Acknowledgments
 This codebase builds upon the following papers
